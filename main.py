@@ -9,3 +9,5 @@ print("Socket is listening...")
 while True:
     c, addr=s.accept()
     print("Connection from",addr)
+    
+    # this is a test.. can u see this?
